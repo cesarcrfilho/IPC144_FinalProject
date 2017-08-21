@@ -1,0 +1,44 @@
+#codelite
+.clang/
+.codelite/
+Debug/
+
+# Visual Studio
+*.sdf
+*.sln
+*.user
+*.suo
+*.opensdf
+*.db
+*.vcxproj
+*.vcxproj.filters
+Debug/
+ipch/
+x64/
+.vs/
+
+# Text files
+*.doc
+*.docx
+*.pdf
+reflect.txt
+
+#tempfiles
+~$_*.*
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+*.zip
+*.md

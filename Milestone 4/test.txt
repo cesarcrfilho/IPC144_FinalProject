@@ -1,0 +1,19 @@
+275,10,2,4.40,0,Royal Gala Apples
+386,20,4,5.99,0,Honeydew Melon
+240,30,5,3.99,0,Blueberries
+916,20,3,10.56,0,Seedless Grapes
+385,5,2,2.50,0,Pomegranate
+495,100,30,0.44,0,Banana
+316,123,10,0.50,0,Kiwifruit
+355,20,5,4.49,1,Chicken Alfredo
+846,3,5,5.49,1,Veal Parmigiana
+359,40,5,5.29,1,Beffsteak Pie
+127,30,3,4.79,1,Curry Checken
+238,10,2,16.99,1,Tide Detergent
+538,1,5,3.69,1,Lays Chips S&V
+649,15,5,3.29,1,Joe Org Chips
+731,100,1,10.00,0,HELLO AGAIN WORLD!!!
+984,30,3,6.69,1,Coke 12 Pack
+350,50,5,7.29,1,Nestea 12 Pack
+835,20,2,6.49,1,7up 12 pack
+222,14,20,1.44,0,Peaches
